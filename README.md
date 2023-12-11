@@ -18,8 +18,7 @@
     * Машинное Обучение с помощью CatBoost и Scikit-learn
 
 ### ⚡️ В настоящее время ⚡️
-- Прохожу "курс по Data Science" в SkillFactory
-- Прохожу курс "Data Science с Глебом Михайловым" в Udemy
+- Прошёл "Курс по Data Science" в SkillFactory (Профстандарт "Специалист по большим данным" 06.042)
 
 ### 🙌🏻 Свяжись со мной
 - [Telegram](https://t.me/N1ko_NN)
@@ -43,8 +42,7 @@
 
 
 ### ⚡️ Currently ⚡️
-- Studying "Data Science course" at SkillFactory
-- Studying "Data Science with Gleb Mikhailov" at Udemy
+- Completed the “Data Science Course” at SkillFactory (Professional standard “Big Data Specialist” 06.042)
 
 ### 🙌🏻 Contact me
 - [Telegram](https://t.me/N1ko_NN)
